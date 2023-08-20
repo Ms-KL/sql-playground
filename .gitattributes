@@ -2,4 +2,4 @@
 * text=auto
 
 # include in github stats
-*.sql linguist-language=sql
+*.sql linguist-detectable=true
