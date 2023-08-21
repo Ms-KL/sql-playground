@@ -1,6 +1,8 @@
 -- https://mode.com/sql-tutorial/
 -- https://app.mode.com/ms_kl_/
 
+-- NOTE: https://www.sqltutorial.org/sql-cheat-sheet/
+
 -- 1. Using SQL in Mode
 -- https://mode.com/sql-tutorial/sql-in-mode/
 
