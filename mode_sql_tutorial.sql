@@ -2,6 +2,10 @@
 -- https://app.mode.com/ms_kl_/
 
 -- NOTE: https://www.sqltutorial.org/sql-cheat-sheet/
+-- https://dataschool.com/how-to-teach-people-sql/sql-join-types-explained-visually/
+-- https://learnsql.com/blog/sql-join-cheat-sheet/joins-cheat-sheet-a3.pdf
+-- https://www.w3schools.com/sql/trysql.asp?filename=trysql_editor
+-- https://www.w3schools.com/sql/exercise.asp
 
 -- 1. Using SQL in Mode
 -- https://mode.com/sql-tutorial/sql-in-mode/
